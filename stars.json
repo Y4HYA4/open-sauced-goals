@@ -1,15 +1,15 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 670,
+    "stargazers_count": 671,
     "open_issues_count": 16,
-    "forks_count": 277
+    "forks_count": 280
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 12771,
-    "open_issues_count": 11,
-    "forks_count": 815
+    "stargazers_count": 12789,
+    "open_issues_count": 13,
+    "forks_count": 816
   },
   {
     "full_name": "Y4HYA4/CloudBoost",
@@ -19,27 +19,27 @@
   },
   {
     "full_name": "devsecops/bootcamp",
-    "stargazers_count": 511,
+    "stargazers_count": 512,
     "open_issues_count": 5,
-    "forks_count": 285
+    "forks_count": 286
   },
   {
     "full_name": "github/docs",
-    "stargazers_count": 10089,
-    "open_issues_count": 142,
-    "forks_count": 54078
+    "stargazers_count": 10126,
+    "open_issues_count": 138,
+    "forks_count": 54225
   },
   {
     "full_name": "github/roadmap",
-    "stargazers_count": 6663,
-    "open_issues_count": 139,
-    "forks_count": 824
+    "stargazers_count": 6673,
+    "open_issues_count": 134,
+    "forks_count": 828
   },
   {
     "full_name": "MichaelCade/90DaysOfDevOps",
-    "stargazers_count": 13466,
-    "open_issues_count": 13,
-    "forks_count": 2353
+    "stargazers_count": 13533,
+    "open_issues_count": 17,
+    "forks_count": 2389
   },
   {
     "full_name": "smore-inc/clippy.js",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "ndabAP/vue-command",
-    "stargazers_count": 181,
+    "stargazers_count": 182,
     "open_issues_count": 44,
     "forks_count": 41
   },
   {
     "full_name": "captbaritone/webamp",
-    "stargazers_count": 8582,
+    "stargazers_count": 8587,
     "open_issues_count": 133,
     "forks_count": 591
   },
@@ -85,61 +85,61 @@
   },
   {
     "full_name": "nhost/nhost",
-    "stargazers_count": 2902,
-    "open_issues_count": 61,
-    "forks_count": 156
+    "stargazers_count": 2917,
+    "open_issues_count": 63,
+    "forks_count": 159
   },
   {
     "full_name": "microsoft/terminal",
-    "stargazers_count": 83440,
-    "open_issues_count": 1492,
-    "forks_count": 7385
+    "stargazers_count": 83522,
+    "open_issues_count": 1497,
+    "forks_count": 7387
   },
   {
     "full_name": "HITK-TECH-Community/Community-Website",
-    "stargazers_count": 115,
+    "stargazers_count": 116,
     "open_issues_count": 43,
-    "forks_count": 233
+    "forks_count": 234
   },
   {
     "full_name": "rfitzhugh/terraform-associate",
     "stargazers_count": 35,
     "open_issues_count": 1,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "learntocloud/learn-to-cloud",
-    "stargazers_count": 2724,
+    "stargazers_count": 2736,
     "open_issues_count": 6,
-    "forks_count": 414
+    "forks_count": 417
   },
   {
     "full_name": "gruntwork-io/terratest",
-    "stargazers_count": 6126,
+    "stargazers_count": 6131,
     "open_issues_count": 181,
-    "forks_count": 1079
+    "forks_count": 1080
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 32828,
-    "open_issues_count": 1611,
-    "forks_count": 7642
+    "stargazers_count": 32890,
+    "open_issues_count": 1612,
+    "forks_count": 7651
   },
   {
     "full_name": "bregman-arie/devops-resources",
-    "stargazers_count": 4576,
+    "stargazers_count": 4594,
     "open_issues_count": 7,
-    "forks_count": 996
+    "forks_count": 1000
   },
   {
     "full_name": "cloudxeus/Azure-Dev",
-    "stargazers_count": 38,
+    "stargazers_count": 40,
     "open_issues_count": 1,
     "forks_count": 106
   },
   {
     "full_name": "johnthebrit/AzureMasterClass",
-    "stargazers_count": 573,
+    "stargazers_count": 575,
     "open_issues_count": 3,
     "forks_count": 236
   }
